@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
+langcode: en
+uuid: c97bfe27-50e3-45b0-8020-68b595ce3d50
+name: 'NJ Web Dev'
+mail: admin@example.com
+slogan: 'A Demo'
+page:
+  403: /403
+  404: /404
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

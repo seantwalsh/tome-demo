@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "1e7ee5c1-005d-4671-8450-4974121fa0df"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "666268ec-e92e-46fd-a08a-12a0a9be50b5"
+        }
+    ],
+    "title": [
+        {
+            "value": "Admin"
+        }
+    ],
+    "weight": [
+        {
+            "value": 1
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

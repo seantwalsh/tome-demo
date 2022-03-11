@@ -1,0 +1,22 @@
+uuid: b86fc470-5b0f-49c5-9f64-2ac0ef115631
+langcode: en
+status: true
+dependencies:
+  theme:
+    - njwebdev
+_core:
+  default_config_hash: JSACcIzS9I_JqKPuks_GQEHEbxqCxlCfgY44qdomYpQ
+id: njwebdev_tabs
+theme: njwebdev
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

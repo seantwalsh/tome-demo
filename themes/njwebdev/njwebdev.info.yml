@@ -1,0 +1,10 @@
+name: NJ Web Dev
+type: theme
+base theme: bookish_theme
+description: 'An example Bookish sub-theme you can copy to your own /themes folder.'
+core_version_requirement: '^9'
+libraries:
+  - njwebdev/main
+regions:
+  before: Before
+  content: Content

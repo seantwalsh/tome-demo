@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "b942a125-2989-42d2-b7a1-068172ad30b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "666268ec-e92e-46fd-a08a-12a0a9be50b5"
+        }
+    ],
+    "title": [
+        {
+            "value": "Help"
+        }
+    ],
+    "weight": [
+        {
+            "value": 8
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin\/help\/topic\/bookish_help.profile",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

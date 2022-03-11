@@ -1,0 +1,13 @@
+uuid: 1ff4b3f2-683e-41dd-ba94-1e740af03d7b
+langcode: en
+status: true
+dependencies:
+  config:
+    - simple_sitemap.type.default_hreflang
+_core:
+  default_config_hash: q7WWphGCr2oovgdWCtkUoIjh0mzAX7sDm2DSeuUJj5A
+id: default
+label: Default
+description: 'The default hreflang sitemap.'
+type: default_hreflang
+weight: 0
